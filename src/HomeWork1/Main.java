@@ -13,6 +13,7 @@ public class Main {
 
             Team team4 = new Team("Александр", "муж.", 20);
             System.out.println(team4);
+
             Course a = new Course( "swiming");
             Course b = new Course( "runing" );
             Course c = new Course( "стрельба");
