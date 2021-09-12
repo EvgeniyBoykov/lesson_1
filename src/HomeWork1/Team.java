@@ -4,7 +4,6 @@ public class Team {
     private String name;
     private String sex;
     private int age;
-
     public Team (String name, String sex, int age){
         this.name = name;
         this.sex = sex;

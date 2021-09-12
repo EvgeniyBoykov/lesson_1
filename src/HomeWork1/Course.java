@@ -33,7 +33,6 @@ public class Course<team1, team> {
     public void setShooting(String shooting) {
         this.shooting = shooting;
     }
-
     public String getJumping() {
         return jumping;
     }
